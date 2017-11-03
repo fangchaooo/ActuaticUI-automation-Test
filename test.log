@@ -1,0 +1,141 @@
+2017-09-22 10:16:01,663 - ERROR - FindDeviceTest-----the app can't close
+2017-09-22 10:17:14,405 - ERROR - AppendDiviceTest-----can't click append button
+2017-09-22 10:17:31,611 - ERROR - DeviceParameterCheckTest-----Can't get the information for treeview!
+2017-09-22 10:17:31,611 - ERROR - DeviceParameterCheckTest-----can't click the treeview
+2017-09-22 10:17:31,989 - ERROR - DeviceParameterCheckTest-----finding communtion paramenter was wrong!
+2017-09-22 10:20:03,751 - ERROR - ParameterPostTest------the para of dianji input error
+2017-09-22 10:20:36,183 - ERROR - ParameterPostTest-----project para was wrong!
+2017-10-27 10:26:47,335 - CRITICAL - no_device_start------start error
+2017-10-27 10:33:41,151 - CRITICAL - start error
+2017-10-27 10:34:03,697 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:04:55,990 - CRITICAL - start error
+2017-10-27 11:05:08,433 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:05:16,777 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:07:07,667 - CRITICAL - start error
+2017-10-27 11:07:20,182 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:07:27,837 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:09:33,955 - CRITICAL - start error
+2017-10-27 11:09:46,791 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:09:54,739 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:29:56,470 - CRITICAL - start error
+2017-10-27 11:30:09,611 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:30:17,307 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:32:38,553 - CRITICAL - start error
+2017-10-27 11:32:51,351 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:32:59,436 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:35:20,276 - CRITICAL - start error
+2017-10-27 11:35:32,969 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:35:45,765 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:35:57,132 - CRITICAL - start error
+2017-10-27 11:36:09,799 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:36:14,842 - ERROR - TitleAndZoom---the menu can't click
+2017-10-27 11:36:19,924 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 11:36:24,649 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 11:36:29,744 - ERROR - TitleAndZoom---the menu can't click
+2017-10-27 11:36:34,787 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 14:10:16,093 - CRITICAL - start error
+2017-10-27 14:10:28,827 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 14:10:36,362 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 14:18:25,206 - CRITICAL - start error
+2017-10-27 14:18:33,264 - ERROR - TitleAndZoom---the window can't change
+2017-10-27 14:18:38,306 - ERROR - TitleAndZoom---the menu can't click
+2017-10-27 14:18:43,402 - ERROR - TitleAndZoom---the app can't close
+2017-10-27 15:03:43,092 - ERROR - FindDeviceTest-----start address was wrong!
+2017-10-27 15:05:37,692 - ERROR - FindDeviceTest-----end address was wrong!
+2017-10-27 15:07:38,735 - ERROR - FindDeviceTest-----cancel find was wrong!
+2017-10-27 15:08:38,767 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-27 15:09:38,777 - ERROR - FindDeviceTest-----the app can't close
+2017-10-27 15:41:18,033 - ERROR - FindDeviceTest-----start address was wrong!
+2017-10-27 15:43:21,042 - ERROR - FindDeviceTest-----end address was wrong!
+2017-10-27 15:44:22,049 - ERROR - FindDeviceTest-----cancel find was wrong!
+2017-10-27 15:45:22,057 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-27 15:46:22,063 - ERROR - FindDeviceTest-----the app can't close
+2017-10-30 10:58:06,209 - ERROR - FindDeviceTest-----start address was wrong!
+2017-10-30 11:00:09,235 - ERROR - FindDeviceTest-----end address was wrong!
+2017-10-30 11:00:44,360 - ERROR - FindDeviceTest-----cancel find was wrong!
+2017-10-30 11:00:44,808 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-30 11:00:45,054 - ERROR - FindDeviceTest-----the app can't close
+2017-10-30 14:34:19,879 - ERROR - FindDeviceTest-----can't find the device window
+2017-10-30 14:34:19,882 - ERROR - FindDeviceTest-----baud rate selecting was wrong!
+2017-10-30 14:34:46,507 - CRITICAL - TitleAndZoom---start error
+2017-10-30 14:34:46,508 - ERROR - TitleAndZoom---the window can't change
+2017-10-30 14:34:46,508 - ERROR - TitleAndZoom---the menu can't click
+2017-10-30 14:34:46,508 - ERROR - TitleAndZoom---the app can't close
+2017-10-30 14:35:37,021 - CRITICAL - TitleAndZoom---start error
+2017-10-30 14:35:37,021 - ERROR - TitleAndZoom---the window can't change
+2017-10-30 14:35:37,021 - ERROR - TitleAndZoom---the menu can't click
+2017-10-30 14:35:37,021 - ERROR - TitleAndZoom---the app can't close
+2017-10-30 14:39:26,769 - CRITICAL - TitleAndZoom---start error
+2017-10-30 14:39:26,769 - ERROR - TitleAndZoom---the window can't change
+2017-10-30 14:39:26,769 - ERROR - TitleAndZoom---the menu can't click
+2017-10-30 14:39:26,769 - ERROR - TitleAndZoom---the app can't close
+2017-10-30 14:39:57,553 - CRITICAL - TitleAndZoom---start error
+2017-10-30 14:39:57,554 - ERROR - TitleAndZoom---the window can't change
+2017-10-30 14:39:57,554 - ERROR - TitleAndZoom---the menu can't click
+2017-10-30 14:39:57,554 - ERROR - TitleAndZoom---the app can't close
+2017-10-30 14:56:35,075 - ERROR - FindDeviceTest-----start address was wrong!
+2017-10-30 14:58:38,083 - ERROR - FindDeviceTest-----end address was wrong!
+2017-10-30 14:59:11,616 - ERROR - FindDeviceTest-----cancel find was wrong!
+2017-10-30 14:59:12,314 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-30 14:59:12,637 - ERROR - FindDeviceTest-----the app can't close
+2017-10-30 15:27:12,863 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-30 15:27:13,201 - ERROR - FindDeviceTest-----the app can't close
+2017-10-30 18:33:58,653 - ERROR - FindDeviceTest-----the app can't close
+2017-10-31 09:57:01,298 - ERROR - FindDeviceTest-----start address was wrong!
+2017-10-31 09:57:09,326 - ERROR - FindDeviceTest-----end address was wrong!
+2017-10-31 09:57:15,351 - ERROR - FindDeviceTest-----cancel find was wrong!
+2017-10-31 09:57:20,377 - ERROR - FindDeviceTest-----finally find device was wrong!
+2017-10-31 09:57:25,402 - ERROR - FindDeviceTest-----the app can't close
+2017-10-31 10:44:13,218 - ERROR - DeviceParameterCheckTest-----finding communtion paramenter was wrong!
+2017-10-31 10:44:18,252 - ERROR - DeviceParameterCheckTest-----divice manage was wrong!
+2017-10-31 16:44:08,514 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:44:08,515 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:44:08,515 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:44:08,515 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:45:18,076 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:45:18,076 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:45:18,076 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:45:18,076 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:45:27,334 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:45:27,334 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:45:27,334 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:45:27,335 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:46:59,834 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:46:59,834 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:46:59,834 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:46:59,834 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:52:05,562 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:52:05,563 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:52:05,563 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:52:05,563 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:53:14,629 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:53:14,631 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:53:14,631 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:53:14,634 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:56:58,370 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:56:58,371 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:56:58,371 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:56:58,371 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:57:17,060 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:57:17,060 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:57:17,061 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:57:17,061 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 16:58:29,579 - ERROR - FindDeviceTest-----can't find the device window
+2017-10-31 16:58:29,579 - ERROR - FindDeviceTest-----baud rate selecting was wrong!
+2017-10-31 16:59:06,794 - CRITICAL - TitleAndZoom---start error
+2017-10-31 16:59:06,795 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 16:59:06,795 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 16:59:06,795 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 17:01:58,416 - CRITICAL - TitleAndZoom---start error
+2017-10-31 17:01:58,417 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 17:01:58,417 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 17:01:58,417 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 17:03:28,993 - CRITICAL - TitleAndZoom---start error
+2017-10-31 17:08:37,194 - CRITICAL - TitleAndZoom---start error
+2017-10-31 17:10:04,973 - CRITICAL - TitleAndZoom---start error
+2017-10-31 17:10:04,973 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 17:10:04,973 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 17:10:04,973 - ERROR - TitleAndZoom---the app can't close
+2017-10-31 17:47:47,529 - ERROR - TitleAndZoom---the window can't change
+2017-10-31 17:47:47,537 - ERROR - TitleAndZoom---the menu can't click
+2017-10-31 17:47:47,539 - ERROR - TitleAndZoom---the app can't close
