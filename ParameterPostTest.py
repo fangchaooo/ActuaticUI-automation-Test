@@ -1,11 +1,9 @@
 from time import sleep
 import logging.config
-from Start import start
+from actuctic.start import Start
 
 # 连接舵机后启动
-url = 'C:\Program Files (x86)\EwayBot\ActuaticUI\ActuaticUI.exe'
-com = 'COM5'
-app_start = start(com, url)
+app_start = Start()
 app_start.start_ui()
 app_main = app_start.app['一维弦电机界面']
 

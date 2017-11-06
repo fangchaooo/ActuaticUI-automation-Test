@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a61a53ea-74ec-4e4b-be4b-5857f09b6f1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actuctic/CommandBroadcast.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actuctic/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actuctic/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CommandBroadcast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/actuctic/test.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run.cmd" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/actuctic/log_config.ini" afterPath="$PROJECT_DIR$/log_config.ini" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/actuctic/menuitem.py" afterPath="$PROJECT_DIR$/actuctic/menu_item.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1111111111111.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/actuctic/CommandBroadcast.py" afterPath="$PROJECT_DIR$/actuctic/command_broadcast.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1111111111111.py" afterPath="$PROJECT_DIR$/1111111111111.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppendDeviceTest.py" afterPath="$PROJECT_DIR$/AppendDeviceTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindDeviceTest.py" afterPath="$PROJECT_DIR$/FindDeviceTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actuctic/select_com_port.py" afterPath="$PROJECT_DIR$/actuctic/select_com_port.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actuctic/start.py" afterPath="$PROJECT_DIR$/actuctic/start.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actuctic/stop.py" afterPath="$PROJECT_DIR$/actuctic/stop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actuctic/title_bar.py" afterPath="$PROJECT_DIR$/actuctic/title_bar.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actuctic/tree_view.py" afterPath="$PROJECT_DIR$/actuctic/tree_view.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/no_device_start.py" afterPath="$PROJECT_DIR$/no_device_start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeviceParameterCheckTest.py" afterPath="$PROJECT_DIR$/DeviceParameterCheckTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParameterPostTest.py" afterPath="$PROJECT_DIR$/ParameterPostTest.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.log" afterPath="$PROJECT_DIR$/test.log" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -40,11 +25,11 @@
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$deviceParameter_check.coverage" NAME="deviceParameter-check Coverage Results" MODIFIED="1505102361148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$2.coverage" NAME="2 Coverage Results" MODIFIED="1505098679326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$CommandBroadcast.coverage" NAME="CommandBroadcast Coverage Results" MODIFIED="1509523292085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$TitleAndZoomTest.coverage" NAME="TitleAndZoomTest Coverage Results" MODIFIED="1509608313443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$TitleAndZoomTest.coverage" NAME="TitleAndZoomTest Coverage Results" MODIFIED="1509948740741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$TitleBar_Menu.coverage" NAME="TitleBar-Menu Coverage Results" MODIFIED="1505098716990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$menuitem.coverage" NAME="menuitem Coverage Results" MODIFIED="1509675949214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actuctic" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$1111111111111111111111111.coverage" NAME="1111111111111111111111111 Coverage Results" MODIFIED="1509422158370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$DeviceParameterCheckTest.coverage" NAME="DeviceParameterCheckTest Coverage Results" MODIFIED="1509417825374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$DeviceParameterCheckTest.coverage" NAME="DeviceParameterCheckTest Coverage Results" MODIFIED="1509941795808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$TitleBar.coverage" NAME="TitleBar Coverage Results" MODIFIED="1504497886438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$find_device.coverage" NAME="find-device Coverage Results" MODIFIED="1504497960104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/C" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$FindDeviceTest.coverage" NAME="FindDeviceTest Coverage Results" MODIFIED="1509940225764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -63,8 +48,8 @@
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$start.coverage" NAME="start Coverage Results" MODIFIED="1509937606954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actuctic" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$first.coverage" NAME="first Coverage Results" MODIFIED="1505100168147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$TitleBarMenu.coverage" NAME="TitleBarMenu Coverage Results" MODIFIED="1505101193834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$ParameterPostTest.coverage" NAME="ParameterPostTest Coverage Results" MODIFIED="1505447071545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$SelectBaudWindow.coverage" NAME="SelectBaudWindow Coverage Results" MODIFIED="1509446581052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$ParameterPostTest.coverage" NAME="ParameterPostTest Coverage Results" MODIFIED="1509941864821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$1.coverage" NAME="1 Coverage Results" MODIFIED="1505097263583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ActuaticUI_automation_Test$select_baud_window.coverage" NAME="select_baud_window Coverage Results" MODIFIED="1509937660953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actuctic" />
   </component>
@@ -80,7 +65,90 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FindDeviceTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FindDeviceTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="103" column="59" lean-forward="false" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TitleAndZoomTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TitleAndZoomTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="command_broadcast.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/actuctic/command_broadcast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeviceParameterCheckTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeviceParameterCheckTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no_device_start.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no_device_start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterPostTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParameterPostTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppendDeviceTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppendDeviceTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,12 +199,10 @@
         <option value="$PROJECT_DIR$/run.cmd" />
         <option value="$PROJECT_DIR$/test.log" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/ParameterPostTest.py" />
         <option value="$PROJECT_DIR$/start.py" />
         <option value="$PROJECT_DIR$/stop.py" />
         <option value="$PROJECT_DIR$/Stop.py" />
         <option value="$PROJECT_DIR$/Command_Broadcast.py" />
-        <option value="$PROJECT_DIR$/DeviceParameterCheckTest.py" />
         <option value="$PROJECT_DIR$/1111111111111111111111111.py" />
         <option value="$PROJECT_DIR$/TreeView.py" />
         <option value="$PROJECT_DIR$/SelectCOMPort.py" />
@@ -158,6 +224,8 @@
         <option value="$PROJECT_DIR$/actuctic/stop.py" />
         <option value="$PROJECT_DIR$/FindDeviceTest.py" />
         <option value="$PROJECT_DIR$/CommandBroadcast.py" />
+        <option value="$PROJECT_DIR$/DeviceParameterCheckTest.py" />
+        <option value="$PROJECT_DIR$/ParameterPostTest.py" />
       </list>
     </option>
   </component>
@@ -174,7 +242,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1397" />
     <option name="y" value="181" />
     <option name="width" value="989" />
@@ -286,7 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindDeviceTest">
+  <component name="RunManager" selected="Python.TitleAndZoomTest">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +391,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="DeviceParameterCheckTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ActuaticUI-automation-Test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeviceParameterCheckTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="FindDeviceTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,7 +427,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="no_device_start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ParameterPostTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -354,43 +440,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ActuaticUI-automation-Test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_device_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParameterPostTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="select_baud_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TitleAndZoomTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actuctic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ActuaticUI-automation-Test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actuctic/select_baud_window.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actuctic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ActuaticUI-automation-Test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actuctic/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TitleAndZoomTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -398,18 +466,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.2" />
       <item index="1" class="java.lang.String" itemvalue="Python.AppendDeviceTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.no_device_start" />
-      <item index="3" class="java.lang.String" itemvalue="Python.start" />
-      <item index="4" class="java.lang.String" itemvalue="Python.select_baud_window" />
-      <item index="5" class="java.lang.String" itemvalue="Python.FindDeviceTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FindDeviceTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DeviceParameterCheckTest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ParameterPostTest" />
+      <item index="5" class="java.lang.String" itemvalue="Python.TitleAndZoomTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FindDeviceTest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.AppendDeviceTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.select_baud_window" />
-        <item index="3" class="java.lang.String" itemvalue="Python.start" />
-        <item index="4" class="java.lang.String" itemvalue="Python.no_device_start" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TitleAndZoomTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ParameterPostTest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DeviceParameterCheckTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FindDeviceTest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AppendDeviceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -436,9 +504,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-153" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-153" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29584223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29584223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842106" sideWeight="0.510661" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -498,13 +567,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ParameterPostTest.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -576,16 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParameterPostTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3567">
-          <caret line="123" column="8" lean-forward="false" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.cmd" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -635,13 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TitleAndZoomTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -807,16 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no_device_start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actuctic/tree_view.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -845,26 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppendDeviceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="49" column="45" lean-forward="true" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindDeviceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="103" column="59" lean-forward="true" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actuctic/stop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -875,27 +890,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1111111111111.py">
+    <entry file="file://$PROJECT_DIR$/AppendDeviceTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="52" column="37" lean-forward="true" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actuctic/CommandBroadcast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="355">
+          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeviceParameterCheckTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
-          <caret line="41" column="77" lean-forward="true" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
+        <state relative-caret-position="297">
+          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no_device_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParameterPostTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1111111111111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="52" column="37" lean-forward="true" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindDeviceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="103" column="59" lean-forward="false" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TitleAndZoomTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actuctic/command_broadcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

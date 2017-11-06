@@ -17,3 +17,7 @@
 2017-11-06 11:41:38,582 - ERROR - FindDeviceTest-----finally find device was wrong!
 2017-11-06 11:41:38,582 - ERROR - FindDeviceTest-----the app can't close
 2017-11-06 11:43:21,641 - ERROR - FindDeviceTest-----the app can't close
+2017-11-06 12:13:35,576 - ERROR - DeviceParameterCheckTest-----finding communtion paramenter was wrong!
+2017-11-06 12:15:35,583 - ERROR - DeviceParameterCheckTest-----divice manage was wrong!
+2017-11-06 12:19:02,433 - ERROR - ParameterPostTest------the para of dianji input error
+2017-11-06 12:21:03,457 - ERROR - ParameterPostTest-----project para was wrong!

@@ -1,12 +1,12 @@
 import re
 from random import randint
 from time import sleep
-from Start import start
+from actuctic.start import Start
 import logging.config
 # 配置日志文件和级别
 logging.config.fileConfig('log_config.ini')
 
-app_start = start()
+app_start = Start()
 app_start.start_ui()
 app_main = app_start.app['一维弦电机界面']
 
@@ -71,7 +71,7 @@ try:
         raise print("Parameter is wrong")
 
     # 进行ID输入边界测试
-    ID_Enter_value = ['', '3242342342', 'sadsd', '#d', '12@', '8']
+    ID_Enter_value = ['8']
     for x in ID_Enter_value:
         communions_para_id_edit.set_text(x)
         sleep(2)
