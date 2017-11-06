@@ -4,7 +4,7 @@ __version__ = "0.1.0"
 __all__ = [
     "menu_item",
     "select_baud_window",
-    "select_com_port",
+    "com_port",
     "start",
     "stop",
     "title_bar",

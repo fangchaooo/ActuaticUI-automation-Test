@@ -1,5 +1,5 @@
 import time
-from actuctic.select_com_port import Port
+import com_port
 from pywinauto.application import Application
 
 
@@ -7,7 +7,7 @@ class Start:
     """
     软件启动，传入端口号和软件地址链接，软件启动分为无连接启动和链接启动
     """
-    def __init__(self, com=Port().find_one_port(), url='C:\Program Files (x86)\EwayBot\ActuaticUI\ActuaticUI.exe'):
+    def __init__(self, com=com_port.Port().find_one_port(), url='C:\Program Files (x86)\EwayBot\ActuaticUI\ActuaticUI.exe'):
         self.com = com
         self.url = url
         self.app = Application(backend='uia').start(url)
