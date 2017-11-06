@@ -1,9 +1,5 @@
 import time
-import logging
-import logging.config
 from pywinauto.application import Application
-
-logging.config.fileConfig('log_config.ini')
 
 
 class TitleBar:

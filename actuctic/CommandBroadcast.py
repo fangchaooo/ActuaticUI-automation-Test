@@ -42,7 +42,7 @@ class CBroadCast:
     def get_position(self):
         self.click_button('获取位置')
 
-    def insert_value(self):
+    # def insert_value(self):
 
 
 

@@ -1,14 +1,12 @@
 import time
 import logging.config
-from Start import start
+from actuctic.start import Start
 # 配置日志文件和级别
 logging.config.fileConfig('log_config.ini')
 
 try:
     # 连接舵机后启动
-    url = 'C:\Program Files (x86)\EwayBot\ActuaticUI\ActuaticUI.exe'
-    com = 'COM5'
-    app_start = start(com, url)
+    app_start = Start()
     app_start.start_ui()
     app_main = app_start.app['一维弦电机界面']
 except BaseException:
@@ -40,19 +38,19 @@ except BaseException:
 try:
     # adress input
     address = app_main_appendDevice.Edit
-    address_text = ['2332', '-23', '4-2afd', 'sad@$$#', '0', '', 'sadsfsdgfdfsgdfgfsdgfsdgdfgsfdg', '20']
+    address_text = ['20']
     if address.text_block() != '':
         raise print("The default of address is wrong!")
 
     # address test
     for i in address_text:
-        time.sleep(3)
+        time.sleep(1)
         address.set_text(i)
-        time.sleep(3)
+        time.sleep(1)
         app_main_appendDevice.Button2.click()
-        time.sleep(3)
-        if i != address_text[-1]:
-            app_main_appendDevice.Dialog2.确定.click()
+        # time.sleep(3)
+        # if i != address_text[-1]:
+        #     app_main_appendDevice.Dialog2.确定.click()
 except BaseException:
     logging.error("AppendDiviceTest-----address input test was wrong!")
 

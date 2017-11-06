@@ -2,6 +2,7 @@ import re
 import time
 from pywinauto.application import Application
 
+
 class TreeView:
     """
     获取主界面中的TreeView中的各个参数
@@ -11,6 +12,7 @@ class TreeView:
         self.tree_view = self.app.child_window(auto_id="TreeViewActuatic", control_type="Tree")
 
     def get_tree_view_text(self):
+        # 获取主界面上的treeview的所有文本
         s = self.tree_view.get_item('\电机列表').sub_elements()
         if s == '':
             assert "This TreeView is none!"
