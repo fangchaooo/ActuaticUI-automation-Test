@@ -21,3 +21,6 @@
 2017-11-06 12:15:35,583 - ERROR - DeviceParameterCheckTest-----divice manage was wrong!
 2017-11-06 12:19:02,433 - ERROR - ParameterPostTest------the para of dianji input error
 2017-11-06 12:21:03,457 - ERROR - ParameterPostTest-----project para was wrong!
+2017-11-06 18:50:25,414 - ERROR - FindDeviceTest-----can't find the device window
+2017-11-06 18:50:25,414 - ERROR - FindDeviceTest-----baud rate selecting was wrong!
+2017-11-06 18:50:49,634 - ERROR - AppendDiviceTest-----can't click append button
